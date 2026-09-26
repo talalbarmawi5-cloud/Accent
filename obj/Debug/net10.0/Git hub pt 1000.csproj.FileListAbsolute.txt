@@ -1,0 +1,14 @@
+/Users/talal/Desktop/Git hub pt 1000/bin/Debug/net10.0/Git hub pt 1000
+/Users/talal/Desktop/Git hub pt 1000/bin/Debug/net10.0/Git hub pt 1000.deps.json
+/Users/talal/Desktop/Git hub pt 1000/bin/Debug/net10.0/Git hub pt 1000.runtimeconfig.json
+/Users/talal/Desktop/Git hub pt 1000/bin/Debug/net10.0/Git hub pt 1000.dll
+/Users/talal/Desktop/Git hub pt 1000/bin/Debug/net10.0/Git hub pt 1000.pdb
+/Users/talal/Desktop/Git hub pt 1000/obj/Debug/net10.0/Git hub pt 1000.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talal/Desktop/Git hub pt 1000/obj/Debug/net10.0/Git hub pt 1000.AssemblyInfoInputs.cache
+/Users/talal/Desktop/Git hub pt 1000/obj/Debug/net10.0/Git hub pt 1000.AssemblyInfo.cs
+/Users/talal/Desktop/Git hub pt 1000/obj/Debug/net10.0/Git hub pt 1000.csproj.CoreCompileInputs.cache
+/Users/talal/Desktop/Git hub pt 1000/obj/Debug/net10.0/Git hub pt 1000.dll
+/Users/talal/Desktop/Git hub pt 1000/obj/Debug/net10.0/refint/Git hub pt 1000.dll
+/Users/talal/Desktop/Git hub pt 1000/obj/Debug/net10.0/Git hub pt 1000.pdb
+/Users/talal/Desktop/Git hub pt 1000/obj/Debug/net10.0/Git hub pt 1000.genruntimeconfig.cache
+/Users/talal/Desktop/Git hub pt 1000/obj/Debug/net10.0/ref/Git hub pt 1000.dll
