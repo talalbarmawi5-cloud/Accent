@@ -1,5 +1,11 @@
 ﻿
 
-Func<int,int> mul = x=>x*555;
-int sol = mul(2);
-Console.WriteLine(sol);
+
+Func<int,int> Solve = x=>x+5;
+int res = Solve(3);
+Console.WriteLine(res);
+
+
+Action<int> avg =cal=>Console.WriteLine(cal);
+
+avg(22);

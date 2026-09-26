@@ -12,3 +12,4 @@
 /Users/talal/Desktop/Git hub pt 1000/obj/Debug/net10.0/Git hub pt 1000.pdb
 /Users/talal/Desktop/Git hub pt 1000/obj/Debug/net10.0/Git hub pt 1000.genruntimeconfig.cache
 /Users/talal/Desktop/Git hub pt 1000/obj/Debug/net10.0/ref/Git hub pt 1000.dll
+/Users/talal/Desktop/Git hub pt 1000/obj/Debug/net10.0/Git hub pt 1000.sourcelink.json
